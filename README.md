@@ -1,6 +1,6 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+I have worked on **30+ professional web development projects**, using modern technologies including **React.js, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
 ---
 
