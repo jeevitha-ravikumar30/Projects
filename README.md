@@ -48,7 +48,6 @@ I have worked on **30+ professional web development projects**, using modern tec
 ## 👗 E-Commerce
 
 - [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – React.js-based product showcase and branding
-- [Pyurerich (Dev)](https://pyurerich.com/) – Shopify-based product showcase and branding
 
 ---
 
