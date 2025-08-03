@@ -1,6 +1,6 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+I have worked on **15+ professional web development projects**, using modern technologies including **React.js, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
 ---
 
@@ -11,17 +11,6 @@ I have worked on **30+ professional web development projects**, using modern tec
 - [Jaanvista Global](https://jaanvista.com/) – Business solutions platform
 - [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – Startup web platform
 - [DCF Saudi Arabia](https://dcf.sa/) – Corporate site
-
----
-
-## 🏢 Laravel & Blade Projects
-
-- [Mashcall](https://mashcall.com/)
-- [Reverd](https://reverd.earth/)
-- [Minerva College of Catering](https://michm.in/)
-- [Robotico Digital](https://roboticodigital.com/)
-- [Jaanvista Global](https://jaanvista.com/)
-- [Shuki Exports](https://shukiexports.com/)
 
 ---
 
